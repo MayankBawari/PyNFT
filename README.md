@@ -1,7 +1,7 @@
 
 # PyNFT
 
-## One Stop tool to genterate combination of
+## One Stop tool for NFT generation
 
 ---
 
