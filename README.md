@@ -26,8 +26,13 @@
 
   * Step 1
 
-    * Create your art and store it in the png format
+    * Create your art and store it in one of the supported formats
     * __All individual file names must be unique__
+    * __Make Sure there are no trailing spaces in the filenames and each of the filename only have one space between two words__
+      * RedShirt.png is valid
+      * Red Shirt.png is valid
+      * Red  Shirt.png is not valid -- 2 spaces between 'Red' and 'Shirt'
+      * Red Shirt .png is not valid -- Trailing space after 'Shirt'
     * Arrange your art files in the 'Assets'folder with the following file structure
       * Assets
         * Trait 1
